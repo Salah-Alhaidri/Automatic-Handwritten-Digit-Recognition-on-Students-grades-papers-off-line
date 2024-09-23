@@ -18,12 +18,13 @@ The scope of this project is to construct an off-line Handwritten Digit Recognit
  <h2>Output </h2>
 
  
-![Uploa![Picture1](https://github.com/user-attachments/assets/f73d986a-9ac9-46b4-a411-2921c649a7d2)
-![Picture2](https://github.com/user-attachments/assets/18d9f099-753e-41e7-9dae-7ddcb97810fb)
-![Picture3](https://github.com/user-attachments/assets/3e018ce8-5018-4731-9b34-0bc30ae6fc2e)
-![Picture4](https://github.com/user-attachments/assets/fcbb547f-3bb3-4405-a064-6d1f8a437b0b)
-![Picture5](https://github.com/user-attachments/assets/bbe45b23-8ccd-4637-aa83-f4539fd3c09f)
-![Picture5](https://github.com/user-attachments/assets/50ba55ef-404f-441f-94af-b0137c9c01a9)
-![Picture2](https://github.com/user-attachments/assets/cf7da255-b7b1-4e04-af2c-dbc8bcf7acb1)
-![Picture3](https://github.com/user-attachments/assets/4200e0c5-8e4c-46a8-a8d2-53fb91da2975)
-ding Picture4.png…]()
+![Picture2](https://github.com/user-attachments/assets/71d3e0d0-b066-49a9-a47b-e3b63578f415)
+
+
+![Picture3](https://github.com/user-attachments/assets/2e824d5a-8b88-4bc3-b1fb-43b5e9a24525)
+
+
+![Picture4](https://github.com/user-attachments/assets/f74d50be-2360-480c-b3c7-f8f11eb052a4)
+
+
+![Picture5](https://github.com/user-attachments/assets/ac6f6ccb-4f38-4bfc-aa2a-cd839bf94120)
